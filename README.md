@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francojoem" alt="francojoem" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@frankiemwon" target="blank"><img src="https://img.shields.io/twitter/follow/@frankiemwon?logo=twitter&style=for-the-badge" alt="@frankiemwon" /></a> </p>
-
 - 🌱 I’m currently learning **Rust , Object oriented programming Concepts**
 
 - 📫 How to reach me **francojoem.mec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@frankiemwon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@frankiemwon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francojoem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francojoem" height="30" width="40" /></a>
 </p>
 
